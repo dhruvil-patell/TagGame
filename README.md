@@ -19,4 +19,3 @@ First one to 15 wins
 - Sound effects
 - Random Map
 
-(player2.png)
