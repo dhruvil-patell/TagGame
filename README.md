@@ -19,4 +19,8 @@ First one to 15 wins
 - Sound effects
 - Random Map
 
+
+## Quick Glance
 ![Imagine Of Graphics](https://github.com/dhruvil-patell/TagGame/blob/main/ImageOfGraphics.PNG?raw=true)
+
+This is what it looks like when you first load in player 2 is blue and player 1 is red. Use arrow keys to move player 1 and WAD to move player 2.
