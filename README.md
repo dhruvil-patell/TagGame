@@ -19,3 +19,4 @@ First one to 15 wins
 - Sound effects
 - Random Map
 
+![Imagine Of Graphics](https://github.com/dhruvil-patell/TagGame/blob/main/ImageOfGraphics.PNG?raw=true)
