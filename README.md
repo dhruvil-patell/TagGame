@@ -11,10 +11,10 @@ First one to 15 wins
 
 
 ## Features:
-- Change Maps
+- Change Maps (Use Num Keys)
 - Two players
 - Starting screen
-- Instructional Screen
+- Instructional Screen ('Press '0')
 - Power ups
 - Sound effects
 - Random Map
