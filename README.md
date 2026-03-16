@@ -7,7 +7,7 @@ Press 'S' To Start The Game. Click 0 To Read the intsructions of how the game wo
 
 
 ## Features:
-- Change Maps (Use Num Keys)
+- Change Maps (Press 1, 2, 3, 4, 5 on your keyboard to select from the 5 maps given) (Pressing 3 Does Something Special)
 - Random Maps (The Random maps is under map 3 when you first click it, a random map will be generated if un satisfied with the map click 3 again).
 - Two players
 - Starting screen
