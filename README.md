@@ -27,4 +27,7 @@ First one to 15 wins
 This is what it looks like when you first load in player 2 is blue and player 1 is red. Use arrow keys to move player 1 and WAD to move player 2.
 
 ## Previous Feedback
-I tried to add the new adjustments. I added one more power up that appears at 10, but since the game is only till 15 points I didnt want to add another one. I also didnt have the time to fully redo the way that time works in my project as I am working on other projects right now. I was also planning on using this game when your board and since its only till 15 points I didnt want to add a pause button. Thank you for the feedback. Apologizes for not making the instructions clear for the random maps. 
+I tried to add the new adjustments. I added one more power up that appears at 10, but since the game is only till 15 points I didnt want to add another one. I also didnt have the time to fully redo the way that time works in my project as I am working on other projects right now. I was also planning on using this game when your board and since its only till 15 points I didnt want to add a pause button. Thank you for the feedback. 
+
+
+Apologizes for not making the instructions clear for the random maps. 
