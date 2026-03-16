@@ -3,11 +3,7 @@ This is me creating my first game for hackclub and first time creating a proper 
 
 
 ## Instructions
-Press 'S' To Start The Game
-Click 0 To Read the intsructions of how the game works
-Use number keys to change the map 
-Yellow box appears when one player hits score of 5 and can be used as a powerup
-First one to 15 wins 
+Press 'S' To Start The Game. Click 0 To Read the intsructions of how the game works. Use number keys to change the map. Yellow box appears when one player hits score of 5 and can be used as a powerup. First one to 15 wins. If you want to change the map that can be done at any time during the game using the number keys and if you want to have a random map click 3, and click it multipe times untill there is a map that you are satisfied with. 
 
 
 ## Features:
