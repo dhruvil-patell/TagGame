@@ -11,7 +11,8 @@ First one to 15 wins
 
 
 ## Features:
-- Change Maps (Use Num Keys) (Use the number 3 to get random maps and click it again to get another map if that is not a suitable one)
+- Change Maps (Use Num Keys)
+- Random Maps (The Random maps is under map 3 when you first click it, a random map will be generated if un satisfied with the map click 3 again).
 - Two players
 - Starting screen
 - Instructional Screen ('Press '0')
