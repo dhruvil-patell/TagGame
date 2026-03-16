@@ -18,6 +18,7 @@ First one to 15 wins
 - Power ups
 - Sound effects
 - Random Map
+- Use P to pause the game
 
 
 ## Quick Glance
